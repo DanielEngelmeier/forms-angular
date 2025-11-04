@@ -1,27 +1,43 @@
-# FormsReativos
+# Projeto Angular – Formulários com Template-Driven
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+Este projeto será desenvolvido como parte do curso **"Angular: formulários orientados a templates"** da [Alura](https://www.alura.com.br). O objetivo é aprender a trabalhar com formulários no Angular utilizando a abordagem orientada a templates, aplicando validações e boas práticas em um projeto prático.
 
-## Development server
+## ✍🏻 Planejamento de funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Criar formulário com `ngModel`
+- Aplicar validações nativas e do Angular
+- Exibir mensagens de erro personalizadas
+- Submeter dados via `ngSubmit`
 
-## Code scaffolding
+## 🧠 Conceitos que serão estudados
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Exibição condicional de mensagens de erro
+- Estilização de campos com base na validade
+- Boas práticas na organização de formulários
 
-## Build
+## ✅ Conceitos aplicados
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- FormsModule e ngModel
+- Validações com atributos HTML e diretivas Angular
 
-## Running unit tests
+## 🛠️ Tecnologias previstas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular 14
+- TypeScript
+- HTML
+- CSS
 
-## Running end-to-end tests
+## 📦 Como executar (após implementação)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone o repositório:
+   - `git clone https://github.com/DanielEngelmeier/forms-angular.git`
+2. Instale as dependências:
+   - `npm install`
+3. Execute o projeto:
+   - `ng serve`
+4. Acesse no navegador:
+   - `http://localhost:4200`
 
-## Further help
+## 📌 Status
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+🚧 Em fase inicial — aguardando início da implementação.
