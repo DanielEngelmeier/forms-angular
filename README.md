@@ -19,6 +19,7 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 
 - FormsModule e ngModel
 - Validações com atributos HTML e diretivas Angular
+- Criar mensagens de erro.
 
 ## 🛠️ Tecnologias previstas
 
