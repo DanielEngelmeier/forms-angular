@@ -11,7 +11,6 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 
 ## 🧠 Conceitos que serão estudados
 
-- Exibição condicional de mensagens de erro
 - Estilização de campos com base na validade
 - Boas práticas na organização de formulários
 
@@ -20,6 +19,8 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 - FormsModule e ngModel
 - Validações com atributos HTML e diretivas Angular
 - Criar mensagens de erro.
+- Exibição condicional de mensagens de erro
+- Validações utilizando diretivas, e patterns
 
 ## 🛠️ Tecnologias previstas
 
