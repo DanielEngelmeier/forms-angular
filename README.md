@@ -11,7 +11,6 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 
 ## 🧠 Conceitos que serão estudados
 
-- Estilização de campos com base na validade
 - Boas práticas na organização de formulários
 
 ## ✅ Conceitos aplicados
@@ -21,6 +20,8 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 - Criar mensagens de erro.
 - Exibição condicional de mensagens de erro
 - Validações utilizando diretivas, e patterns
+- Estilização de campos com base na validade
+- Criação de diretiva para validação do campo de data de nascimento
 
 ## 🛠️ Tecnologias previstas
 
