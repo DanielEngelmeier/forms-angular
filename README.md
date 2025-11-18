@@ -9,10 +9,6 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 - Exibir mensagens de erro personalizadas
 - Submeter dados via `ngSubmit`
 
-## 🧠 Conceitos que serão estudados
-
-- Boas práticas na organização de formulários
-
 ## ✅ Conceitos aplicados
 
 - FormsModule e ngModel
@@ -22,6 +18,7 @@ Este projeto será desenvolvido como parte do curso **"Angular: formulários ori
 - Validações utilizando diretivas, e patterns
 - Estilização de campos com base na validade
 - Criação de diretiva para validação do campo de data de nascimento
+- Boas práticas na organização de formulários
 
 ## 🛠️ Tecnologias previstas
 
